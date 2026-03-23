@@ -1,0 +1,11 @@
+{
+    "dcc_software": {
+        "blender": {
+            "4.0": {
+                "renderer": {
+                    "cycles": ["4.0"]
+                }
+            }
+        }
+    }
+}

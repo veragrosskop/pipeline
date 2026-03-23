@@ -1,0 +1,11 @@
+{
+    "dcc_software": {
+        "houdini": {
+            "21.0.512": {
+                "renderer": {
+                    "redshift": ["2025.1.0"]
+                }
+            }
+        }
+    }
+}
