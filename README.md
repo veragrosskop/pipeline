@@ -1,13 +1,27 @@
 # Dummy pipeline
 
-This Github contains a dummy pipeline for a fictional Production Studio. 
-The pipeline is mainly built for use inside houdini or via the command line. 
+This Github contains a dummy pipeline for a fictional Production Studio.
+This project is a work in progress and is in active development
 
-To create a project use the command:
-
-    python create_project.py --project_name project_beta --fps 24 --houdini_version 20.0 --renderers karma
-
-To launch houdini with project config:
+To launch the project launcher run the launcher app via the terminal:
     
-    python launcher.py --starthoudini
+    python launcher.py
+
+## Active development:
+
+- project launcher UI
+- project and shot creation with schema validation
+- finalized implementation on software compatibiliity
+- launching files and software from the launcher
+- complete tests for all functionalities
+
+## Features to add:
+
+- Library of custom pipeline and software tools such as:
+  - HDA's
+  - custom nodes
+  - scripts
+  - templates
+- user management
+- Asset Library
 
