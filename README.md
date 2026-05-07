@@ -20,11 +20,6 @@ This project focuses on building scalable and maintainable pipeline infrastructu
 
 # 🚀 Core Features
 
-The framework is built around modular and extensible architecture principles, separating configuration management, 
-validation, schemas, project orchestration, and software compatibility into independent systems. 
-This structure allows new DCC applications, renderers, validation rules, and workflow tools to be integrated 
-without major changes to the core pipeline. 
-
 Features include:
 - Project, shot and asset management
 - Plugin, tool and script management
@@ -35,8 +30,12 @@ Features include:
 - Extensible modular design
 - Planned USD workflow support
 
+The framework is built around modular and extensible architecture principles, separating configuration management, 
+validation, schemas, project orchestration, and software compatibility into independent systems. 
+This structure allows new DCC applications, renderers, validation rules, and workflow tools to be integrated 
+without major changes to the core pipeline. 
 
-**Currently in development for the following DCCs:** Houdini, Maya, Blender
+**Currently supports the following DCCs:** Houdini, Maya, Blender
 
 ---
 
